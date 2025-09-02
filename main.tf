@@ -25,3 +25,5 @@ This is another resource-managed text file.
 You can put multi-line content here.
 EOT
 }
+
+resource "null_resource" "example" {}
